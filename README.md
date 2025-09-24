@@ -9,11 +9,7 @@
 
 ## 🌐 Connect with Me  
 
-[![Email](https://img.icons8.com/ios-filled/50/ea4335/new-post.png)](mailto:abdulrahman26248@gmail.com)  
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/abdul-rahman-89353229a/)  
-[![X/Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/AbdulRahma14083)  
-[![Instagram](https://img.icons8.com/ios-filled/50/E1306C/instagram-new.png)](https://www.instagram.com/a_rahman737/)  
-[![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/Abdulrahman-programmer)  
+[![Email](https://img.icons8.com/ios-filled/50/ea4335/new-post.png)](mailto:abdulrahman26248@gmail.com)  [![LinkedIn](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)](https://www.linkedin.com/in/abdul-rahman-89353229a/)  [![X/Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/AbdulRahma14083)  [![Instagram](https://img.icons8.com/ios-filled/50/E1306C/instagram-new.png)](https://www.instagram.com/a_rahman737/)  [![GitHub](https://img.icons8.com/ios-glyphs/50/000000/github.png)](https://github.com/Abdulrahman-programmer)  
 
 ---
 
